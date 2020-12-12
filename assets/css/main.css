@@ -3122,8 +3122,8 @@ input, select, textarea {
 					display: block;
 					margin: 0 auto;
 					max-width: 75%;
-					height: 362px;
-					width: 362px;
+					height: 100px;
+					width: 100px;
 					border-radius: 50%;
 				}
 
